@@ -17,7 +17,8 @@ I'm just an An undergraduate from Qingdao University of Technology.🤔🤔🤔
   
 &nbsp;<div align="left">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
-</div>&nbsp;<div align="right">
+</div>
+&nbsp;<div align="right">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 
