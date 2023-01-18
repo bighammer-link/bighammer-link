@@ -17,4 +17,4 @@ I'm just an An undergraduate from Qingdao University of Technology.🤔🤔🤔
   
 
 
-[![Anurag's GitHub stats](https://https://github-readme-stats-three-zeta-72.vercel.app/?username=bighammer-link)]
+[![Hammer's GitHub stats](https://github-readme-stats-mikebeaton.vercel.app/api?username=bighammer-link&theme=white&hide_border=false)](https://github.com/MikeBeaton)
