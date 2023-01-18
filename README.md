@@ -17,4 +17,5 @@ I'm just an An undergraduate from Qingdao University of Technology.🤔🤔🤔
   
 
 
-[![Hammer's GitHub stats](https://github-readme-stats-mikebeaton.vercel.app/api?username=bighammer-link&theme=white&hide_border=false)](https://github.com/MikeBeaton)
+| <img align="center" src="https://github-readme-stats-mikebeaton.vercel.app?username=bighammer-link&show_icons=true&include_all_commits=true&theme=synthwave" /> | <img align="center" src="https://github-readme-stats-mikebeaton.vercel.app/api/top-langs/?username=bighammer-link&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
