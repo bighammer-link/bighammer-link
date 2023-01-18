@@ -15,10 +15,10 @@ I'm just an An undergraduate from Qingdao University of Technology.🤔🤔🤔
 
 - 💬 Ask me about anything here 📫QQ:3225579752
   
-&nbsp;<div align="left">
+<!-- &nbsp;<div align="left">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
-
+ -->
 
 | <img align="center" src="https://github-readme-stats-mikebeaton.vercel.app/api?username=bighammer-link&show_icons=true&include_all_commits=true&theme=synthwave" /> | <img align="center" src="https://github-readme-stats-mikebeaton.vercel.app/api/top-langs/?username=bighammer-link&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
