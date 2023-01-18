@@ -17,5 +17,9 @@ I'm just an An undergraduate from Qingdao University of Technology.🤔🤔🤔
   
 
 
-| <img align="center" src="https://github-readme-stats-ruby-one.vercel.app?username=bighammer-link&show_icons=true&include_all_commits=true&theme=synthwave" /> | <img align="center" src="github-readme-stats-fawn-six.vercel.app/api/top-langs/?username=bighammer-link&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bighammer-link&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
