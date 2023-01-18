@@ -17,5 +17,5 @@ I'm just an An undergraduate from Qingdao University of Technology.🤔🤔🤔
   
 
 
-| <img align="center" src="https://github-readme-stats-fawn-six.vercel.app?username=bighammer-link&show_icons=true&include_all_commits=true&theme=synthwave" /> | <img align="center" src="github-readme-stats-fawn-six.vercel.app/api/top-langs/?username=bighammer-link&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="github-readme-stats-fawn-six.vercel.app?username=bighammer-link&show_icons=true&include_all_commits=true&theme=synthwave" /> | <img align="center" src="github-readme-stats-fawn-six.vercel.app/api/top-langs/?username=bighammer-link&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
