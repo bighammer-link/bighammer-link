@@ -3,7 +3,7 @@
 <br />
 Hi there 👋
 <br />
-I'm just an An undergraduate from Qingdao University of Technology.🤔🤔🤔
+I'm just an  undergraduate from Qingdao University of Technology.🤔🤔🤔
 
 **About me**
 
