@@ -22,3 +22,4 @@ I'm just an  undergraduate from Qingdao University of Technology.🤔🤔🤔
 
 | <img align="center" src="https://github-readme-stats-mikebeaton.vercel.app/api?username=bighammer-link&show_icons=true&include_all_commits=true&theme=synthwave" /> | <img align="center" src="https://github-readme-stats-mikebeaton.vercel.app/api/top-langs/?username=bighammer-link&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
+  [![HitCount](https://hits.dwyl.com/bighammer-link/bighammer-link.svg?style=flat-square)](http://hits.dwyl.com/bighammer-link/bighammer-link)
