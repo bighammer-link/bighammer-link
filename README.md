@@ -21,7 +21,7 @@ I'm  an  undergraduate from Qingdao University of Technology.🤔🤔🤔
 
 | <img align="center" src="https://github-readme-stats-mikebeaton.vercel.app/api?username=bighammer-link&show_icons=true&include_all_commits=true&theme=synthwave" /> | <img align="center" src="https://github-readme-stats-mikebeaton.vercel.app/api/top-langs/?username=bighammer-link&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
-<br/>
+
 &nbsp;<div align="center">
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/hammer-big-2595a6202/)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](wm3225579752@outlook.com)
