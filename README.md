@@ -27,4 +27,4 @@ I'm  an  undergraduate from Qingdao University of Technology.🤔🤔🤔
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](wm3225579752@outlook.com)
   [![Visits](https://komarev.com/ghpvc/?username=bighammer-link&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/bighammer-link)
 </div>
-https://skyline.github.com/bighammer-link/2023.json
+https://skyline.github.com/bighammer-link/2023
