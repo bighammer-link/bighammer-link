@@ -13,7 +13,7 @@ I'm  an  undergraduate from Qingdao University of Technology.🤔🤔🤔
 
 - ❤️ 🔭 I’m currently working on emmm... deep learning, and building fun experiments on Colaboratory
 
-- 💬 Ask me about anything here 📫:Uhhhhhhhhh......
+- 💬 Ask me about anything here 📫:Ummmmmmmmm......
   
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31t7ag26bent37y7xde2rkjkkr6y?si=90b77397669848a1)
