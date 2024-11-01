@@ -3,11 +3,11 @@
 <br />
 Hi there 👋
 <br />
-I'm  an  undergraduate from Qingdao University of Technology.🤔🤔🤔
+I'm a college student from Jiangnan University.🤔🤔🤔
 
 **About me**
 
-- 💼 My school: [QUT](http://english.qut.edu.cn/)
+- 💼 My school: [JNU](https://english.jiangnan.edu.cn/)
 
 - 🌱 I’m currently learning everything that i am interested.
 
