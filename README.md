@@ -1,4 +1,4 @@
-<p align="center"><a href="https://blog.csdn.net/qq_51208442?spm=1000.2115.3001.5343" target="_blank"><img width="60%" alt="Hello, I'm bighammer. Welcome!" src="./assets/myname.png" /></a></p>
+<p align="center"><img width="60%" alt="Hello, I'm bighammer. Welcome!" src="./assets/myname.png" /></a></p>
 
 <br />
 Hi there 👋
