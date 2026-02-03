@@ -16,7 +16,7 @@ I'm a college student from Jiangnan University.🤔🤔🤔
 - 💬 Ask me about anything here 📫:Ummmmmmmmm......
   
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31t7ag26bent37y7xde2rkjkkr6y?si=90b77397669848a1)
+  [![Spotify](https://novatorem.vercel.app/api/orchestrator?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31t7ag26bent37y7xde2rkjkkr6y?si=90b77397669848a1)
 </div>
 
 | <img align="center" src="https://github-readme-stats-mikebeaton.vercel.app/api?username=bighammer-link&show_icons=true&include_all_commits=true&theme=synthwave" /> | <img align="center" src="https://github-readme-stats-mikebeaton.vercel.app/api/top-langs/?username=bighammer-link&layout=compact&theme=buefy&hide_border=true" /> |
