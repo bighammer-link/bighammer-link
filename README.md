@@ -11,9 +11,9 @@ I'm a college student from Jiangnan University.🤔🤔🤔
 
 - 🌱 I’m currently learning everything that i am interested.
 
-- ❤️  I’m currently working on emmm... deep learning, and building fun experiments on Colaboratory
+- ❤️  I’m currently working on deep learning, and building fun experiments on Colaboratory
 
-- 💬 Ask me about anything here 📫:Ummmmmmmmm......
+- ❤️ Enjoy life.
   
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/orchestrator?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31t7ag26bent37y7xde2rkjkkr6y?si=90b77397669848a1)
